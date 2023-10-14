@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8e69fa5dbc8626347a1f8ae3049c1453
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - moneySE: {instanceID: 0}
+  - giveSE: {instanceID: 0}
+  - scoreSE: {fileID: 8300000, guid: 27c391bc3454a95409f3c9b37cbaab9e, type: 3}
+  - waterSE: {fileID: 8300000, guid: e30cb1795f721874181a159ad49760f6, type: 3}
+  - bonusSE: {instanceID: 0}
+  - foundSE: {fileID: 8300000, guid: 71bf39130c0d860428282ac91992af05, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
