@@ -9,3 +9,12 @@
 프로젝트 기간 : 약 1달 반
 
 # 게임 설명
+
+
+# 게임 플레이
+<img src = 'https://github.com/hyL0807/Thief-Game/assets/73875317/9ec2249d-e78b-4fa4-872e-ce37c23f4154'>
+<img src = 'https://github.com/hyL0807/Thief-Game/assets/73875317/79b0adea-f84b-4025-bf0b-8a1a5123a3f9'>
+<img src = 'https://github.com/hyL0807/Thief-Game/assets/73875317/f99ca26e-6d28-4a75-8039-050038885acd'>
+<img src = 'https://github.com/hyL0807/Thief-Game/assets/73875317/ac881001-19fc-41a7-88f8-33877e9d7f15'>
+<img src = 'https://github.com/hyL0807/Thief-Game/assets/73875317/b07f45c7-8a1c-4e28-b05a-6e3c5746b849'>
+<img src = 'https://github.com/hyL0807/Thief-Game/assets/73875317/9e31dcb1-66da-4af0-bba9-0cee3b5d9285'>
