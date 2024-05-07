@@ -3,6 +3,9 @@
 조선시대 이름없는 의적이 되어 못된 양반들의 복주머니를 훔쳐 평민들에게 나눠주는 1인칭 게임입니다.</br>
 포졸들에게 잡히지 말고 목적을 완수하여 마을을 떠나세요.
 
+# 플레이 영상
+https://youtu.be/DdBNm5oC19k?list=PL570LCmLJ6GbhdxhGuNMTPUu2fdo3GOUI
+
 # 개요
 프로젝트 언어 : C#   
 
